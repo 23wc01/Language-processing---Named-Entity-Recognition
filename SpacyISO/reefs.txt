@@ -1,0 +1,66 @@
+A reef is a ridge or shoal of rock, coral, or similar relatively stable material lying beneath the surface of a natural body of water. Many reefs result from natural, abiotic (non-living) processes such as deposition of sand or wave erosion planing down rock outcrops. However, reefs such as the coral reefs of tropical waters are formed by biotic (living) processes, dominated by corals and coralline algae. Artificial reefs, such as shipwrecks and other man-made underwater structures, may occur intentionally or as the result of an accident. These are sometimes designed to increase the physical complexity of featureless sand bottoms to attract a more diverse range of organisms. Reefs are often quite near to the surface, but not all definitions require this.
+Earth's largest coral reef system is the Great Barrier Reef in Australia, at a length of over 2,300 kilometres (1,400 miles).
+
+
+== Classification ==
+Reefs may be classified in terms of their origin, geographical location, depth, and topography. For example a tropical coral fringing reef, or a temperate rocky intertidal reef.
+
+
+=== Biotic ===
+
+There is a variety of biotic reef types, including oyster reefs and sponge reefs, but the most massive and widely distributed are tropical coral reefs. Although corals are major contributors to the framework and bulk material comprising a coral reef, the organisms most responsible for reef growth against the constant assault from ocean waves are calcareous algae, especially, although not entirely, coralline algae.
+Oyster larvae prefer to settle on adult oysters and thereby develop layers building upwards. These eventually form a fairly massive hard stony calcium carbonate structure on which other reef organisms like sponges and seaweeds can grow, and provide a habitat for mobile benthic organisms.
+These biotic reef types take on additional names depending upon how the reef lies in relation to the land, if any. Reef types include fringing reefs, barrier reefs, and atolls. A fringing reef is a reef that is attached to an island. Whereas, a barrier reef forms a calcareous barrier around an island, resulting in a lagoon between the shore and the reef. Conversely, an atoll is a ring reef with no land present.
+The reef front, facing the ocean, is a high energy locale. Whereas, the internal lagoon will be at a lower energy with fine grained sediments.
+
+
+==== Mounds ====
+Both mounds and reefs are considered to be varieties of organosedimentary buildups, which are sedimentary features, built by the interaction of organisms and their environment. These interactions have a synoptic relief and whose biotic composition differs from that found on and beneath the surrounding sea floor. However, reefs are held up by a macroscopic skeletal framework, as what is seen on coral reefs. Corals and calcareous algae grow on top of one another, forming a three-dimensional framework that is modified in various ways by other organisms and inorganic processes.
+Conversely, mounds lack a macroscopic skeletal framework. Instead, they are built by microorganisms or by organisms that also lack a skeletal framework. A microbial mound might be built exclusively or primarily by cyanobacteria. Examples of biostromes formed by cyanobacteria occur in the Great Salt Lake in Utah, United States, and in Shark Bay on the coast of Western Australia.
+Cyanobacteria do not have skeletons, and individual organisms are microscopic. However, they can encourage the precipitation or accumulation of calcium carbonate to produce distinct sediment bodies in composition that have relief on the seafloor.  Cyanobacterial mounds were most abundant before the evolution of shelly macroscopic organisms, but they still exist today. Stromatolites, for instance, are microbial mounds with a laminated internal structure. Whereas, bryozoans and crinoids, common contributors to marine sediments during the Mississippian period, produce a different kind of mound. Although bryozoans are small and crinoid skeletons disintegrate, bryozoan and crinoid meadows can persist over time and produce compositionally distinct bodies of sediment with depositional relief.
+The Proterozoic Belt Supergroup contains evidence of possible microbial mat and dome structures similar to stromatolite and chicken reef complexes.
+
+
+=== Geologic ===
+Rocky reefs are underwater outcrops of rock projecting above the adjacent unconsolidated surface with varying relief. They can be found in depth ranges from intertidal to deep water, and provide a substrate for a large range of sessile benthic organisms, and shelter for a large range of mobile organisms. They are often located in sub-tropical, temperate, and sub-polar latitudes.
+
+
+==== Structures ====
+
+Ancient reefs buried within stratigraphic sections are of considerable interest to geologists because they provide paleo-environmental information about the location in Earth's history. In addition, reef structures within a sequence of sedimentary rocks provide a discontinuity which may serve as a trap or conduit for fossil fuels or mineralizing fluids to form petroleum or ore deposits.
+Corals, including some major extinct groups Rugosa and Tabulata, have been important reef builders through much of the Phanerozoic since the Ordovician Period. However, other organism groups, such as calcifying algae, especially members of the red algae (Rhodophyta), and molluscs (especially the rudist bivalves during the Cretaceous Period) have created massive structures at various times.
+During the Cambrian Period, the conical or tubular skeletons of Archaeocyatha, an extinct group of uncertain affinities (possibly sponges), built reefs. Other groups, such as the Bryozoa, have been important interstitial organisms, living between the framework builders. The corals which build reefs today, the Scleractinia, arose after the Permian–Triassic extinction event that wiped out the earlier rugose corals (as well as many other groups). They became increasingly important reef builders throughout the Mesozoic Era. They may have arisen from a rugose coral ancestor.
+Rugose corals built their skeletons of calcite and have a different symmetry from that of the scleractinian corals, whose skeletons are aragonite. However, there are some unusual examples of well-preserved aragonitic rugose corals in the Late Permian. In addition, calcite has been reported in the initial post-larval calcification in a few scleractinian corals. Nevertheless, scleractinian corals (which arose in the middle Triassic) may have arisen from a non-calcifying ancestor independent of the rugosan corals (which disappeared in the late Permian).
+
+
+=== Artificial ===
+
+An artificial reef is a human-created underwater structure, typically built to promote marine life in areas with a generally featureless bottom, to control erosion, block ship passage, block the use of trawling nets, or improve surfing.
+Many reefs are built using objects that were built for other purposes, for example by sinking oil rigs (through the Rigs-to-Reefs program), scuttling ships, or by deploying rubble or construction debris. Other artificial reefs are purpose built (e.g. the reef balls) from PVC or concrete. Shipwrecks become artificial reefs on the seafloor. Regardless of construction method, artificial reefs generally provide stable hard surfaces where algae and invertebrates such as barnacles, corals, and oysters attach; the accumulation of attached marine life in turn provides intricate structure and food for assemblages of fish.
+
+
+== See also ==
+Coral reef – Outcrop of rock in the sea formed by the growth and deposit of stony coral skeletons
+Reef Hobbyist Magazine – US magazine focused on reef life
+Placer (geography) – Submerged bank or reef
+Pseudo-atoll – Island that encircles a lagoon
+
+
+== References ==
+
+
+== Sources ==
+Shears N.T. (2007) Biogeography, community structure and biological habitat types of subtidal reefs on the South Island West Coast, New Zealand. Science for Conservation 281.  p 53. Department of Conservation, New Zealand. [1]
+“General Information on Reefs.” General Information on Reefs – Reef & Ocean Ecology Lab. Accessed February 1, 2024. https://www.reefoceanlab.org.au/resources/general-information-on-reefs/#:~:text=Rocky%20reefs%20are%20more%20typical,many%20parts%20of%20New%20Zealand.
+“Coral Reefs ~ Marinebio Conservation Society.” MarineBio Conservation Society, November 10, 2023. https://www.marinebio.org/creatures/coral-reefs/#:~:text=Organisms%20responsible%20for%20building%20tropical,and%20the%20Tropic%20of%20Cancer.
+
+
+== External links ==
+
+Reef Rescue - Smithsonian Ocean Portal
+Coral Reefs of the Tropics Archived 2011-02-19 at the Wayback Machine: facts, photos and movies from The Nature Conservancy
+NOAA Photo Library
+Reef Environmental Education Foundation
+NOS Data Explorer - A portal to obtain NOAA National Ocean Service data
+Reef formation
+Atolls – Distribution, Development and Architecture

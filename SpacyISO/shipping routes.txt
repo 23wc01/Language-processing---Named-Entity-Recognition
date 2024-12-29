@@ -1,0 +1,71 @@
+Arctic shipping routes are the maritime paths used by vessels to navigate through parts or the entirety of the Arctic. There are three main routes that connect the Atlantic and the Pacific oceans: the Northeast Passage, the Northwest Passage, and the  mostly unused Transpolar Sea Route. In addition, two other significant routes exist: the Northern Sea Route, and the Arctic Bridge.
+To connect the Atlantic with the Pacific, the Northwest Passage goes along the Northern Canadian and Alaskan coasts, the Northeast Passage (NEP) follows the Russian and Norwegian coasts, and the Transpolar Sea Route crosses the Arctic through the North Pole.
+The Arctic Bridge is an internal Arctic route linking Russia to Canada, and the Northern Sea Route (NSR) trails the Russian coast from the Bering Strait to the East, to the Kara Sea to the West.
+The main difference between the NSR and the NEP is that the latter comprises the Barents Sea and provides access to the port of Murmansk, the largest Russian Arctic port, and to the Atlantic. Given that the NSR constitutes the majority of the NEP, some sources use the terms NSR and NEP interchangeably.
+
+
+== Current situation ==
+The navigability of arctic sea routes depends primarily on the expanse of the floe, since it prevents naval traffic for a part of the year. The fluctuation of the area covered by sea ice determines the time windows during which ships can pass through.
+The NWP encounters thick multiyear ice, complex straits, and pingos that make navigation especially challenging. The eastern routes Northeast Passage and Northern Sea Route have experienced a higher level of activity compared to the Northwest Passage.
+The NEP is relatively easier owing to lower overall ice extent and open water in the Barents Sea. Unlike similar latitudes in Alaska or in Canada, this area remains ice-free due to currents of warm water from the Gulf Stream, feeding into the North Atlantic. For both the NSR and NEP, in summer months the sea ice recedes more quickly compared to the NWP area. This characteristic has become more notable since the early 2000s due to successive low-records of ice age, thickness and extension. Nonetheless, the NEP remains inaccessible for a large part of the year, since in the Laptev Sea and Kara Sea, through which the NEP passes, the minimum risk of non-passage over the whole year is respectively 17% and 15%.
+The Transpolar Sea Route remains a mostly unused route as ships going through it must traverse a permanent sea ice sheet, requiring advanced ice breaking capabilities. The TSR was only accessible 10 days in 2010, with icebreaker type vessels, and those 10 days were still considered as unsafe.
+
+
+== Future projections ==
+Various projections indicate that the ice floe will greatly diminish in the future, and might even disappear by the end of the century. The depletion of the arctic ice is already visible. On average over a year, the ice floe has diminished by 4.3% every ten years. However, this reduction is not uniform over the entire year. Indeed, if we observe only the month of September, the ice floe has diminished by 10.7% every ten years, compared to only 2.8% in March. Projection models of the evolution of the arctic ice floe are based on the last 30 years. These projections mainly use circulation models of ocean and atmospheric currents, such as NEMO, the OGCM and the CMIP. They also take into account the evolution of greenhouse gases, such as CO2.
+The NSR may be ice free by 2030, earlier than NWP or TSR. Models predict that in that year 90% of the current area of ice will remain in winter, and only 60% in September. In 2060, they forecast that these numbers will decrease to 85% and 40% respectively. Finally, in 2090, they anticipate 85% in winter, and less than 10% in August–September.
+As a consequence of this reduction of the ice floe, the number of days of navigability on the NEP and NWP is increased, and routes such as the TSR, that are as of yet inaccessible to regular vessels, may open up. The former are for now only open for a few days during the months of August and September, but certain projections indicate that in 2030 they will be open for a whole month. In 2060, the NEP will be open from August to October, and the NWP during August and September. Finally, in 2090, both passages will be open at least three months in a year. Certain projections even say that the NEP will be accessible five months per year.
+However, all these projections remain uncertain since global warming is accelerating, and could have unexpected consequences on climatic conditions such as the perturbation of winds and ocean currents.
+
+
+== Governance ==
+
+The governance of the NEP has developed considerably in the late 20th century and early 21st century. The main sources of governance are the United Nations Convention on the Law of the Sea (UNCLOS), the Arctic Council (AC), the International Maritime Organization (IMO), and the domestic legislation of the Arctic countries. In combination, they cover territorial claims, economic exploitation, technical shipping requirements, environmental protection, and search and rescue responsibilities.
+
+
+== Economic viability of Arctic sea routes ==
+
+
+=== Time efficiency ===
+The commercial interest of the Arctic shipping routes lies in the shorter travel distances they offer between several economic poles, such as Northern Europe and East Asia. Indeed, passing through the Arctic, from Northern Europe to Shanghai for example, can reduce the distance covered by ships by up to 3000 nautical miles, compared to the same journey when passing through the Suez Canal. Nevertheless, not all journeys are improved since the voyage from Northern Europe to Vietnam, for example, results in an additional 1000 nautical miles covered.
+Furthermore, reduced distance does not always imply time gained as well. A study by the Asian journal of shipping and logistics concludes that depending on the ice conditions in the Arctic, journeys from Northern Europe to East Asia may not save any time at all. Indeed, the overall time of the journey depends greatly on the time spent in ice-water which slows down ships considerably. As such, if the routes are open only 3 months in a year, which implies bad ice conditions, the aforementioned transit could result in a loss of 3 days compared to the one passing through the Suez canal. However, if the routes are open all year round, which implies perfect ice conditions, the transit could result in a gain of up to 7 days. Another study even estimates that the time gained could reach up to 16 days.
+
+
+=== Economic assessment ===
+The economic assessment of the Arctic routes is usually an interdisciplinary study that considers not only economic parameters, but also the influence of ice conditions and other environmental parameters, demand for goods and geopolitical factors. Currently researchers are trying to make the most comprehensive economic assessment of these routes. For example, Sibul and Jin proposed a methodology for estimating costs taking into account the influence of ice in accordance with the requirements of the Northern Sea Route Administration. Later, these authors used the real weather and ice data to obtain the routes distribution for the Northern Sea Route depending on season and vessel's ice class.
+
+
+=== Other factors ===
+The economic viability of the Arctic routes does not only depend on their time efficiency; as a review commissioned by the UK government points out, there are many costs to be considered. Firstly, the review notes that Russia imposes tariffs on the NSR, the most used shipping route because of its favourable ice conditions, as opposed to Canada that imposes no tariffs on the use of the NWP, which, however, has worse ice conditions. The TSR can also be considered as an attractive prospect in the future, if the Arctic sea ice recedes considerably.
+Linked to these tariffs is the need for an icebreaker fleet to maintain routes and ports. Indeed, Russia does impose heavy fees for the use of the NSR, but it also maintains it, which is not without cost either.
+Another important factor to consider is that high fuel prices make Arctic shipping more viable, and inversely so for low fuel prices.
+Finally, the lack of ports along the Arctic routes creates the need for special vessels, adapted to the ice conditions of the Arctic, with experienced crew. The lack of ports also means that container shipping is less attractive since vessels cannot exchange cargo along the way.
+
+
+== Limits of Arctic development ==
+The development of arctic shipping routes has not gone uncontested, with concerns being raised about existing challenges that must be overcome. The UK Government Office for Science lists three causes of increased risk:
+
+Extreme weather conditions that can cause harm to both ships and their crews, as well as a considerable danger caused by potential iceberg collisions.
+A profound lack of infrastructure in the coastal regions around the main Arctic routes. Most notably lack of communication, insufficient mapping of the area and the remoteness from primary resources such as fuel and food are primordial concerns.
+Increased chance of human error due to inexperience by the crew in handling under unconventional conditions.
+Additionally, further technical and technological advancements are required to provide specialised vessels adapted to extreme weather conditions with high reliability and at a low cost.
+Intensifying the navigation along the Arctic routes also entails external policy issues. Interest shown in the last decades by major shipping companies has provoked a response of Arctic countries. A multitude of claims cause uncertainties relating to the legal status of some of the routes: it is still unknown if the NSR must be considered as internal waters, territorial waters or international straits. Most importantly, transiting ships will lose their right of innocent passage if parts of the NSR are claimed to be internal waters (see more under Arctic cooperation and politics).
+Another limit to Arctic shipping development is the effect it has on marine ecosystems as well as local communities. Increased shipping in the Arctic can not only raise risks in regards to travel, but also can put sea life and local ecosystems at risk. In addition, changing the shipping routes add complexity to the issue of emissions. The Arctic is a unique place for emission changes to occur, because unlike other places in the world, changes in the Arctic can have climate impacts that are global.
+Finally, environmental policies in the Polar Code must be considered before the Arctic can become the new axis of intercontinental shipping. These restrictions are likely to become more strict as the market grows, to protect the existing nature and wildlife.
+
+
+== Search and rescue ==
+
+In 2011 the Arctic countries, organized through the Arctic Council, signed the first binding circumpolar treaty, the Cooperation on Aeronautical and Maritime Search and Rescue in the Arctic. With it they officially established the areas of responsibility of each coastal country.
+
+
+== Further reading ==
+Østreng, Willy; Eger, Karl Magnus; Fløistad, Brit; Jørgensen-Dahl, Arnfinn; Lothe, Lars; Mejlænder-Larsen, Morten; Wergeland, Tor (2013). Shipping in Arctic Waters: A Comparison of the Northeast, Northwest and Trans Polar Passages. Springer. doi:10.1007/978-3-642-16790-4. ISBN 978-3642167898. S2CID 41481012.
+Brigham, L.; McCalla, R.; Cunningham, E.; Barr, W.; VanderZwaag, D.; Chircop, A.; Santos-Pedro, V.M.; MacDonald, R.; Harder, S.; Ellis, B.; Snyder, J.; Huntington, H.; Skjoldal, H.; Gold, M.; Williams, M.; Wojhan, T.; Williams, M.; Falkingham, J. (2009). Brigham, Lawson; Santos-Pedro, V.M.; Juurmaa, K. (eds.). Arctic marine shipping assessment (PDF). Norway: Protection of the Arctic Marine Environment (PAME), Arctic Council.
+
+
+== References ==
+
+
+== External links ==
+Search and rescue, Arctic Council

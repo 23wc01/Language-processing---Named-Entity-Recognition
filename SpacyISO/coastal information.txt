@@ -1,0 +1,77 @@
+The Streisand effect is an unintended consequence of attempts to hide, remove, or censor information, where the effort instead increases public awareness of the information. The effect is named for American singer and actress Barbra Streisand, whose attorney's attempt  in 2003 to suppress the publication of a photograph showing her clifftop residence in Malibu, taken to document coastal erosion in California, inadvertently drew far greater attention to the previously obscure photograph. The effect exemplifies psychological reactance: where the desire to hide information instead makes its propagation more likely.
+
+
+== Mechanism ==
+Attempts to suppress information are often made through cease-and-desist letters, but instead of being suppressed, the information sometimes receives extensive publicity, as well as the creation of media such as videos and spoof songs, which can be mirrored on the Internet or distributed on file-sharing networks. In addition, seeking or obtaining an injunction to prohibit something from being published or to remove something that is already published can lead to increased publicity of the published work.
+The Streisand effect is an example of psychological reactance, wherein once people are aware that some information is being kept from them, they are significantly more motivated to acquire and spread it.
+
+
+== History and etymology ==
+In 2003, American singer and actress Barbra Streisand sued photographer Kenneth Adelman and Pictopia.com for US$50 million for violation of privacy. The lawsuit sought to remove "Image 3850", an aerial photograph in which Streisand's mansion was visible, from the publicly available California Coastal Records Project of 12,000 California coastline photographs, documenting coastal erosion and intended to influence government policymakers, of which the photograph of her residence was an overlooked and inconsequential tidbit of information. The lawsuit was dismissed and Streisand was ordered to pay Adelman's $177,000 legal attorney fees.
+"Image 3850" had been downloaded only six times prior to Streisand's lawsuit, two of those being by Streisand's attorneys. Public awareness of the case led to more than 420,000 people visiting the site over the following month.
+Two years later, Mike Masnick of Techdirt named the effect after the Streisand incident when writing about Marco Beach Ocean Resort's takedown notice to urinal.net (a site dedicated to photographs of urinals) over its use of the resort's name.
+
+How long is it going to take before lawyers realize that the simple act of trying to repress something they don't like online is likely to make it so that something that most people would never, ever see (like a photo of a urinal in some random beach resort) is now seen by many more people? Let's call it the Streisand Effect.
+
+
+=== Equivalent saying in Chinese ===
+The phenomenon is well-known in Chinese culture, expressed by the chengyu "wishing to cover, more conspicuous" (欲蓋彌彰, pinyin: Yù gài mí zhāng). A similar expression appeared as early as the 4th century BC.
+
+
+=== Streisand's perspective ===
+In her 2023 autobiography My Name is Barbra, Streisand, citing security problems with intruders, wrote, "My issue was never with the photo ... it was only about the use of my name attached to the photo. I felt I was standing up for a principle, but in retrospect, it was a mistake. I also assumed that my lawyer had done exactly as I wished and simply asked to take my name off the photo."
+
+
+== Examples ==
+
+
+=== In politics and government ===
+The French intelligence agency DGRI's attempt to delete the French Wikipedia article about the military radio station of Pierre-sur-Haute resulted in the restored article temporarily becoming the most-viewed page on the French Wikipedia.
+In October 2020, the New York Post published emails from a laptop owned by Hunter Biden, the son of then Democratic presidential nominee Joe Biden, detailing an alleged corruption scheme. After internal discussion that debated whether the story may have originated from Russian misinformation and propaganda, Twitter blocked the story from their platform and locked the accounts of those who shared a link to the article, including the New York Post's own Twitter account, and White House Press Secretary Kayleigh McEnany, among others. Researchers at MIT cited the increase of 5,500 shares every 15 minutes to about 10,000 shares shortly after Twitter censored the story, as evidence of the Streisand Effect nearly doubling the attention the story received. Twitter removed the ban the following day.
+
+
+=== By businesses ===
+
+In April 2007, a group of companies that used Advanced Access Content System (AACS) encryption issued cease-and-desist letters demanding that the system's 128-bit (16-byte) numerical key (represented in hexadecimal as 09 F9 11 02 9D 74 E3 5B D8 41 56 C5 63 56 88 C0) be removed from several high-profile websites, including Digg. With the numerical key and some software, it was possible to decrypt the video content on HD DVDs. This led to the key's proliferation across other sites and chat rooms in various formats, with one commentator describing it as having become "the most famous number on the Internet". Within a month, the key had been reprinted on over 280,000 pages, printed on T-shirts and tattoos, published as a book, and appeared on YouTube in a song played over 45,000 times.
+In September 2009, multi-national oil company Trafigura obtained a super-injunction to prevent The Guardian newspaper from reporting on an internal Trafigura investigation into the 2006 Ivory Coast toxic waste dump scandal. A super-injunction prevents reporting on even the existence of the injunction. Using parliamentary privilege, Labour MP Paul Farrelly referred to the super-injunction in a parliamentary question and on October 12, 2009, The Guardian reported that it had been gagged from reporting on the parliamentary question, in violation of the Bill of Rights 1689. Blogger Richard Wilson correctly identified the blocked question as referring to the Trafigura waste dump scandal, after which The Spectator suggested the same. Not long after, Trafigura began trending on Twitter, helped along by Stephen Fry's retweeting the story to his followers. Twitter users soon tracked down all details of the case, and by October 16, the super-injunction had been lifted and the report published.
+
+
+=== By other organizations ===
+In January 2008, the Church of Scientology's attempts to get Internet websites to delete a video of Tom Cruise speaking about Scientology resulted in the creation of the protest movement Project Chanology.
+On December 5, 2008, the Internet Watch Foundation (IWF) added the English Wikipedia article about the 1976 Scorpions album Virgin Killer to a child pornography blacklist, considering the album's cover art "a potentially illegal indecent image of a child under the age of 18". The article quickly became one of the most popular pages on the site, and the publicity surrounding the IWF action resulted in the image being spread across other sites. The IWF was later reported on the BBC News website to have said "IWF's overriding objective is to minimise the availability of indecent images of children on the Internet, however, on this occasion our efforts have had the opposite effect". This effect was also noted by the IWF in its statement about the removal of the URL from the blacklist.
+
+
+=== By individuals ===
+In May 2011, Premier League footballer Ryan Giggs sued Twitter after a user revealed that Giggs was the subject of an anonymous privacy injunction (informally referred to as a "super-injunction") that prevented the publication of details regarding an alleged affair with model and former Big Brother contestant Imogen Thomas. A blogger for the Forbes website observed that the British media, which were banned from breaking the terms of the injunction, had mocked the footballer for not understanding the effect. Dan Sabbagh from The Guardian subsequently posted a graph detailing—without naming the player—the number of references to the player's name against time, showing a large spike following the news that the player was seeking legal action.
+In 2013, a Buzzfeed article listing photos from the Superbowl contained a photo of Beyonce making an unflattering pose. Her publicist contacted Buzzfeed and requested its removal. As an unintended side effect, the image became far more well-known across the internet and is frequently cited as an example of the Streisand effect.
+The Streisand effect has been observed in relation to the right to be forgotten, the right in some jurisdictions to have private information about a person removed from internet searches and other directories under some circumstances, as a litigant attempting to remove information from search engines risks the litigation itself being reported as valid, current news.
+In December 2022, Twitter CEO Elon Musk banned the Twitter account @elonjet, a bot that reported his private jet's movements based on public domain flight data. Musk cited concerns about his family's safety. The ban drew further media coverage and public attention to Musk’s comments on allowing free speech across the Twitter platform. Musk received further criticism after banning several journalists that had referred to the "ElonJet" account or been critical of Musk in the past.
+
+
+== See also ==
+
+Banned in Boston – Phrase used to describe a work prohibited in Boston
+Blowback (intelligence) – Unintended consequence of covert operations, typically involving rogue terrorist groups
+DSMA-Notice – UK request to not publish informationPages displaying short descriptions of redirect targets (popularly known as a "D notice")
+Gag order – Legal order to restrict publication
+The History of Sexuality – Four-volume book by Michel Foucault
+Hydra effect – Paradox originating from the Greek legend of the Lernaean Hydra
+List of eponymous laws – Adages and sayings named after a person
+Massachusetts Bay Transportation Authority v. Anderson – Action to block publication of vulnerability
+McLibel case – Legal action against and by activists
+Perverse incentive – Incentive that has a contrary result ("Cobra effect")
+Reactance (psychology) – Unpleasant emotion experienced when behavioral freedom is threatened
+Red triangle (Channel 4) – Adult content warning
+Royal Family (film)
+Strategic lawsuit against public participation (SLAPP) – Litigation intended to silence critics
+Succès de scandale – Term meaning "success from scandal"
+Super-injunctions — In England and Wales, injunctions whose existence and details may not be legally reported, in addition to facts or allegations which may not be disclosed
+List of Streisand effect examples
+
+
+== References ==
+
+
+== External links ==
+
+"The perils of the Streisand effect". Parkinson, Justin. BBC News, July 31, 2014.

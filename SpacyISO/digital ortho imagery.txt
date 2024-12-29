@@ -1,0 +1,39 @@
+An orthophoto, orthophotograph, orthoimage or orthoimagery is an aerial photograph or satellite imagery geometrically corrected ("orthorectified") such that the scale is uniform: the photo or image follows a given map projection. Unlike an uncorrected aerial photograph, an orthophoto can be used to measure true distances, because it is an accurate representation of the Earth's surface, having been adjusted for topographic relief, lens distortion, and camera tilt.
+Orthophotographs are commonly used in geographic information systems (GIS) as a "map accurate" background image.  An orthorectified image differs from "rubber sheeted" rectifications as the latter may accurately locate a number of points on each image but "stretch" the area between so scale may not be uniform across the image.  A digital elevation model (DEM) is required to create an accurate orthophoto as distortions in the image due to the varying distance between the camera/sensor and different points on the ground need to be corrected.  An orthoimage and a "rubber sheeted" image can both be said to have been "georeferenced"; however, the overall accuracy of the rectification varies.  Software can display the orthophoto and allow an operator to digitize or place linework, text annotations or geographic symbols (such as hospitals, schools, and fire stations). Some software can process the orthophoto and produce the linework automatically.
+Production of orthophotos was historically achieved using mechanical devices.
+The orthorectification is not always perfect and has side effect especially for the geometry of high-rise constructions.
+
+
+== Orthophotomosaic and orthophotomap ==
+
+An orthophotomosaic is a raster image mosaic made by merging or stitching orthophotos. The aerial or satellite photographs have been transformed to correct for perspective so that they appear to have been taken from vertically above at an infinite distance.  Google Earth images are of this type.
+The document (digital or paper) representing an orthophotomosaic with additional marginal information like a title, north arrow, scale bar and cartographical information is called an orthophotomap or image map. Often these maps show additional point, line or polygon layers (like a traditional map) on top of the orthophotomosaic. A similar document, mostly used for disaster relief, is called a spatiomap.
+
+
+== See also ==
+Digital Orthophoto Quadrangle (DOQ) and Digital Orthophoto Quarter Quadrangle (DOQQ)
+Leica Photogrammetry Suite Orthorectification Software
+GRASS GIS (i.ortho.photo module)
+Photogrammetry
+Photomapping
+TopoFlight
+Socet set Orthophoto Software
+U.S. Geological Survey
+Rational Polynomial Coefficient
+
+
+== References ==
+
+Bolstad, P., (2005), GIS Fundamentals: A First Text on Geographic Information Systems, Eider Press, White Bear Lake, MN, 2nd ed.
+Demers, Michael N., (1997). Fundamentals of Geographic Information Systems, John Wiley & Sons.
+Fernandez, E.; Garfinkel, R.; Arbiol, R. (May–June 1998). "Mosaicking of Aerial Photographic Maps Via Seams Defined by Bottleneck Shortest Paths". Operations Research. 46 (3): 293–304. doi:10.1287/opre.46.3.293..
+Petrie, G., (1977), Transactions of the Institute of British Geographers: Orthophotomaps New Series, vol. 2, no.1, Contemporary Cartography., pg. 49-70
+Robinson, A.H., Morrison, J.L., Muehrcke, P.C., Kimerling, A.J., Stephen Guptill, (1995) Elements of Cartography: John Wiley & Sons Inc., Canada, 6th ed.
+United States Geological Survey, US Department of Interior, USGS Fact Sheet May 2001 http://erg.usgs.gov/isb/pubs/factsheets/fs05701.html
+
+
+== External links ==
+United States Geological Survey
+National Digital Orthophoto Programs (NDOP) - Original Site via Wayback Machine
+National Digital Orthoimagery Program (NDOP)
+National Digital Orthoimagery Program Subcommittee

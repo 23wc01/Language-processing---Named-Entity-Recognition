@@ -1,0 +1,82 @@
+Social impact assessment (SIA) is a methodology to review the social effects of infrastructure projects and other development interventions. Although SIA is usually applied to planned interventions, the same techniques can be used to evaluate the social impact of unplanned events, for example, disasters, demographic change, and epidemics. SIA is important in applied anthropology, as its main goal is to deliver positive social outcomes and eliminate any possible negative or long term effects.
+
+
+== Overview ==
+The origins of SIA largely derives from the environmental impact assessment (EIA) model, which first emerged in the 1970s in the U.S. In the United States under the National Environmental Policy Act. Social impact assessments are federally mandated and performed in conjunction with environmental impact assessments.  SIA has been incorporated into the formal planning and approval processes in several countries, to categorize and assess how major developments may affect populations, groups, and settlements. Though the social impact assessment has long been considered subordinate to the environmental impact assessment, new models, such as the Environmental Social Impact Assessment (ESIA), take a more integrated approach where equal weight is given to both the social and environmental impact assessments.
+Although the Social Impact Assessment is recognized and used as a methodology, to review its social effects on industry projects. The term SIA is more widely known in most European countries, whereas in North America, the term Cultural impact is more widely used. Cultural and social terms were first seen to describe a branch of anthropology. There are no significant differences between the two however, both terms overlap each other to a certain extent. ‘Cultural Anthropology’ as mentioned is more commonly used in the US, its term is well known to the early works of American anthropologists. Some of the most prominent figures include Franz Boas and Ruth Benedict, they have both have stressed that unity in cultures through their language, behavior, ideologies, and material creations. On the other hand, ‘Social Anthropology’ is a term developed over the 20th century primarily in Britain. Their emphasis on what social anthropology is, is based on social relationships. Although it is based more on a theoretical approach just like cultural anthropology; its emphasis is understanding the social impacts and relations in a particular society.
+
+
+== Social Impact Assessment ==
+Social impact assessments are used to identify and manage the social impacts of industrial projects. These SIA can also be linked to Environmental impact assessments where policies, planning, and programming need to be implemented. Examples of social impact assessments include looking at how people live in a society (kinship or nuclear setting), culture, community, medical knowledge, and political systems. These examples showcase the emphasis on the environment and its effect on social impact. Applied anthropologists generally in SIA's identify and mitigate:  who are the stakeholders, community, housing, workforce, health, and industry content. In SIA's, one needs to identify the stakeholders, the type of communities who will be impacted in a positive or negative manner. Collecting data is also an expected task by looking at indigenous communities, culture, key industries, etc. Explaining methods that will be used in your SIA, Identifying possible direct social impacts as well as the time frame of these impacts, and lastly providing government legislation and policies that related to the SIA. Just like with SIA, culture impact assessment (CIA) is essentially the same term and methodology as SIA. The only real difference is the fact that depending on what country you are in that they use the terms Social Impact Assessment (SIA) or Culture Impact Assessment (CIA). There are initially ten steps that one takes to do an effective social impact assessment, as advised by The Guidelines and Principles For Social Impact Assessment.
+
+
+=== Steps of an effective SIA ===
+Formulate a public plan or policy that involves all potential parties.
+Describe what your public plan is or policy .
+Describe the environment or area specific to your public plan or policy and its conditions.
+After you have formulated your practical understanding of your proposal, recognize the potential social impacts will be communicated to those who are affected.
+Identify the potential social impacts.
+Establish the consequences of social impacts.
+Identify future impacts and growing social impacts.
+Plan an alternative public plan or policy and its outcomes.
+Formulate a mitigating plan.
+Formulate a program that monitors every aspect of the plan.
+
+
+== See also ==
+B Corporation
+Economic impact analysis
+Life Cycle Thinking
+Social return on investment
+Stakeholder analysis
+Systems thinking
+Social earnings ratio
+True cost accounting
+
+
+== References ==
+
+
+== Further reading ==
+A listing of the key citations in social impact assessment, prepared by the International Association for Impact Assessment.
+Barrow, C.J. 2000.  Social Impact Assessment: An Introduction. London: Arnold.
+Becker, H and F Vanclay. 2003. The International Handbook of Social Impact Assessment. Cheltenham: Edward Elgar.
+Becker, H.A., 1997. Social Impact Assessment: Method and Experience in Europe, North America and the developing world. London: UCL Press
+Burdge, Rabel J. 2004. The concepts, process and methods of SIA. Middleton, WI: The Social Ecology Press. ISBN 0-941042-35-9.
+Burdge, Rabel J. 2004. A Community Guide to Social Impact Assessment. Middleton, WI: The Social Ecology Press ISBN 0-941042-17-0.
+Dufour, Bryan 2015. State of the art in social impact measurement: methods for work integration social enterprises measuring their impact in a public context, 5th EMES Conference
+Franks, Daniel M. 2011. Management of the Social Impacts of Mining. In Peter Darling (Ed.), SME Mining Engineering Handbook Third ed. Chapter 17.4, pp. 1817–1825. Littleton, Colorado, USA: Society for Mining, Metallurgy, and Exploration.
+Franks, Daniel, Fidler, Courtney, Brereton, David, Vanclay, Frank and Clark, Phil (2009) Leading practice strategies for addressing the social impacts of resource developments Archived 2018-04-21 at the Wayback Machine Brisbane, Australia: Centre for Social Responsibility in Mining, Sustainable Minerals Institute, The University of Queensland & Department of Employment, Economic Development and Innovation, Queensland Government.
+Franks, Daniel M 2012. Social impact assessment of resource projects. Mining for Development: Guide to Australian Practice, International Mining for Development Centre, Australian Government, University of Queensland and University of Western Australia.
+Franks, D.M. and F Vanclay 2013. Social Impact Management Plans: Innovation in corporate and public policy, Environmental Impact Assessment Review, 43, 40–48.
+Hanna, P. & Vanclay, F. 2013. Human rights, Indigenous peoples and the concept of Free, Prior and Informed Consent, Impact Assessment & Project Appraisal, 31(2), 146–157.
+Howitt, Richard 2003. Local and non-specialist participation in impact assessment, in: C.-Q. Liu, Z. Zhao, T. Xiao and J. Guha, Strategic Management of Environmental and Socio-Economic Issues: A Handbook. Guiyang, China, Guizhou Science and Technology Publishing House, 27-36
+Howitt, R. 2001. Rethinking resource management: justice, sustainability and indigenous peoples. London: Routledge.
+Kemp, D. & Vanclay, F. 2013. Human rights and impact assessment: clarifying the connections in practice, Impact Assessment & Project Appraisal 31(2), 86–96.
+Terminski, B. 2015. Development-Induced Displacement and Resettlement: Causes, Consequences and Socio-Legal Context, New York, Columbia University Press.
+Kirkpatrick, C. and Lee, N., Editors, 1997. Sustainable development in a developing world: Integrating socioeconomic appraisal and environmental assessment. Cheltenham: Edward Elgar.
+Mayoux, L & R. Chambers 2005 Reversing the paradigm: quantification, participatory methods and pro-poor impact assessment. Journal of International Development 17(2) 271–298.
+Roche, C. 1999. Impact assessment for development agencies. Learning to value change. Oxford: Oxfam
+Taylor CN, Bryan CH, Goodrich CG. 2004. Social Assessment: theory, process and techniques. Middleton, WI: The Social Ecology Press ISBN 0-941042-37-5.
+Vanclay, F. 1999, ‘Social impact assessment’, in J. Petts (ed.) Handbook of Environmental Impact Assessment (Vol 1), Oxford: Blackwell Science, pp. 301–26.
+Vanclay, F. 2002a, ‘Conceptualising social impacts’, Environmental Impact Assessment Review, 22(3), 183–211.
+Vanclay, F. 2002b, ‘Social impact assessment’, in M. Tolba (ed.) Responding to Global Environmental Change, Chichester: Wiley, pp. 387–93.
+Vanclay, F. 2003, ‘International principles for social impact assessment’, Impact Assessment and Project Appraisal, 21(1), 5–11.
+Vanclay, F. 2006, ‘Principles for social impact assessment: a critical comparison between the international and US documents’, Environmental Impact Assessment Review, 26 (1), 3–14.
+Vanclay, F. 2014. Developments in Social Impact Assessment. Cheltenham: Edward Elgar.
+Vanclay, F. & Esteves A.M. 2011. New Directions in Social Impact Assessment. Cheltenham: Edward Elgar.
+Vanclay, F., Esteves, A.M., Aucamp, I. & Franks, D. 2015 Social Impact Assessment: Guidance for assessing and managing the social impacts of projects. Fargo ND: International Association for Impact Assessment, vii+98 pages
+Wong, Cecilia H.M.; Ho, Wing-Chung (2015). "Roles of social impact assessment practitioners". Environmental Impact Assessment Review. 50: 124–133. Bibcode:2015EIARv..50..124W. doi:10.1016/j.eiar.2014.09.008.
+Federal Department of Town and Country Planning, Peninsular Malaysia 2012,'Manual for Social Impact Assessment Manual of Project Developmentt', ISBN 978-983-2839-43-9
+
+
+== External links ==
+Belgian EU Presidency Summary on Social Impact Assessment
+Website of the SIAhub, a sharing platform for SIA practitioners
+The Social Performance practitioners platform, a community of practice for social performance practitioners working in the extractive industries
+International Principles for Social Impact Assessment
+US Principles and Guidelines for Social Impact Assessment
+International Association for Impact Assessment Wiki - SIA page
+Using Stakeholder Network Analysis in Social Impact Assessment
+Malaysian Association of Social Impact Assessment (MSIA)
+Kakadu Region Social Impact Study (Australia)

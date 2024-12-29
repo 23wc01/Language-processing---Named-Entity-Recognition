@@ -1,0 +1,113 @@
+A maritime boundary is a conceptual division of Earth's water surface areas using physiographical or geopolitical criteria. As such, it usually bounds areas of exclusive national rights over mineral and biological resources, encompassing maritime features, limits and zones. Generally, a maritime boundary is delineated at a particular distance from a jurisdiction's coastline. Although in some countries the term maritime boundary represents borders of a maritime nation that are recognized by the United Nations Convention on the Law of the Sea, maritime borders usually serve to identify the edge of international waters.
+Maritime boundaries exist in the context of territorial waters, contiguous zones, and exclusive economic zones; however, the terminology does not encompass lake or river boundaries, which are considered within the context of land boundaries.
+Some maritime boundaries have remained indeterminate despite efforts to clarify them. This is explained by an array of factors, some of which involve regional problems.
+The delineation or delimitation of maritime boundaries has strategic, economic and environmental implications (see maritime delimitation).
+
+
+== Terminology ==
+The terms boundary, frontier and border are often used as if they were interchangeable, but they are also terms with precise meanings.
+A boundary is a line. The terms "frontier", "borderland" and "border" are zones of indeterminate width.  Such areas form the outermost part of a country. Borders are bounded on one side by a national boundary. There are variations in the specific terminology of maritime boundary agreements which have been concluded since the 1970s. Such differences are less important than what is being delimited.
+
+
+=== Features ===
+Features that affect maritime boundaries include islands and the submerged seabed of the continental shelf.
+The process of boundary delimitation in the ocean encompasses the natural prolongation of geological features and outlying territory. The process of establishing "positional" borders encompasses the distinction between previously resolved and never-resolved controversies.
+
+
+=== Limits ===
+The limits of maritime boundaries are expressed in polylines and in polygon layers of sovereignty and control, calculated from the declaration of a baseline. The conditions under which a state may establish such baseline are described in the United Nations Convention on the Law of the Sea (UNCLOS). A baseline of a country can be the low water line, a straight baseline (a line that encloses bays, estuaries, inland waters,...) or a combination of the two.
+
+
+=== Classification ===
+Maritime spaces can be divided into the following groups based on their legal status: 
+
+Maritime spaces under the sovereignty and authority (exercising power) of a coastal State: internal waters, territorial sea, and archipelagic waters,
+Maritime spaces with mixed legal regime, which fall under both the jurisdiction of the coastal State and under the international law: contiguous zone, the continental shelf and the exclusive economic zone, and
+Maritime spaces that can be used by all States (including land-locked ones) on an equal basis: high seas. 
+While many maritime spaces can be classified as belonging to the same group, this does not imply that they all have the same legal regime. International straits and canals have their own legal status as well.
+
+
+=== Zones ===
+The zones of maritime boundaries are expressed in concentric limits surrounding coastal and feature baselines.
+
+Inland waters—the zone inside the baseline.
+Territorial sea—the zone extending 12 nm. from the baseline.
+Contiguous zone—the area extending 24 nm. from the baseline.
+Exclusive Economic Zone—the area extending 200 nm. from the baseline except when the space between two countries is less than 400 nm.
+In the case of overlapping zones, the boundary is presumed to conform to the equidistance principle or it is explicitly described in a multilateral treaty.
+Contemporary negotiations have produced tripoint and quadripoint determinations. For example, in the 1982 Australia–France Marine Delimitation Agreement, for the purposes of drawing the treaty's equidistant lines it was assumed that France has sovereignty over Matthew and Hunter Islands, a territory that is also claimed by Vanuatu. The northernmost point in the boundary is a tripoint with the Solomon Islands. The boundary runs in a roughly north–south direction and then turns and runs west–east until it almost reaches the 170th meridian east.
+
+
+== History ==
+
+The concept of maritime boundaries is a relatively new concept. The historical record is a backdrop for evaluating border issues.  The evaluation of historic rights are governed by distinct legal regimes in customary international law, including research and analysis based on
+
+acquisition and occupation
+the existence of rights ipso facto and ab initio.
+The study of treaties on maritime boundaries is important as (a) as a source of general or particular international law; (b) as evidence of existing customary law; and (c) as evidence of the emerging development of custom. The development of "customary law" affects all nations.
+The attention accorded this subject has evolved beyond formerly-conventional norms like the three-mile limit.
+
+
+=== Treaties ===
+
+Multilateral treaties and documents describing the baselines of countries can be found on the website of the United Nations.
+For example, the Australia–France Marine Delimitation Agreement establishes ocean boundaries between Australia and New Caledonia in the Coral Sea (including the boundary between Australia's Norfolk Island and New Caledonia). It consists of 21 straight-line maritime segments defined by 22 individual coordinate points forming a modified equidistant line between the two territories.
+
+
+== Disputes ==
+
+Controversies about territorial waters tend to encompass two dimensions: (a) territorial sovereignty, which are a legacy of history; and (b) relevant jurisdictional rights and interests in maritime boundaries, which are mainly due to differing interpretations of the law of the sea. An example of this may be reviewed in the context of the ongoing Kuwait-Iraq maritime dispute over the Khawr Abd Allah waterway.
+Many disputes have been resolved through negotiations, but not all of them.
+
+
+=== Unresolved maritime boundaries ===
+
+Among the array of unsettled disputes, the maritime borders of the two Koreas in the Yellow Sea represent a visually stark contrast.
+
+A western line of military control between the two Koreas was unilaterally established by the United Nations Command in 1953. Although the North asserts a differently configured boundary line, there is no dispute that a few small islands close to the North Korean coastline have remained jurisdiction of the United Nations since 1953.
+The map at the right shows the differing maritime boundary lines of the two Koreas. The ambits of these boundaries encompass overlapping jurisdictional claims. The explicit differences in the way the boundary lines are configured is shown in the map at the right.
+In a very small area, this represents a unique illustration of differences in mapping and delineation strategies.
+
+On one hand, the boundary line created by the United Nations ("A") reflects the geographic features of the coastal baseline.
+On the other hand, while the boundary line declared by North Korea does acknowledge specific non-DPRK island enclaves, its "Military Demarcation Line" in the ocean ("B") is essentially a straight line.
+Violent clashes in these disputed waters include what are known as the first Yeonpyeong incident, the second Yeonpyeong incident, and the Bombardment of Yeonpyeong.
+
+
+== See also ==
+List of countries and territories by land and maritime borders
+List of political and geographic borders
+Exclusive Economic Zone
+Arctic Cooperation and Politics
+Territorial claims in the Arctic
+International Seabed Authority
+Beagle Channel Arbitration
+South Pacific Applied Geoscience Commission
+International Court of Justice
+Jurisdiction of the International Court of Justice
+Permanent Court of Arbitration
+
+
+== Notes ==
+
+
+== References ==
+Anderson, Ewan W. (2003). International Boundaries: A Geopolitical Atlas. Routledge: New York. ISBN 978-1-57958-375-0; OCLC 54061586
+Carleton, Chris; Shelagh Furness and Clive Schofield. (2001). Developments in the Technical Determination of Maritime Space: Delimitation, Dispute Resolution, Geographical Information Systems and the Role of the Technical Expert. Durham, UK: IBRU. ISBN 978-1-897643-47-1; OCLC 248943759
+Charney, Jonathan I., David A. Colson, Robert W. Smith. (2005). International Maritime Boundaries, 5 vols. Leiden: Martinus Nijhoff Publishers. ISBN 978-0-7923-1187-4; ISBN 978-90-411-1954-4; ISBN 978-90-411-0345-1; ISBN 978-90-04-14461-3; ISBN 978-90-04-14479-8; OCLC 23254092
+Elferink, Alex G. Oude, (1994). The Law of Maritime Boundary Delimitation: a Case Study of the Russian Federation. Dordrecht: Martinus Nijhoff. ISBN 978-0-7923-3082-0; OCLC 123566768
+Jagota, S. P. (1985). Maritime Boundary. Martinis Nijhoff: Dordrecht. ISBN 978-90-247-3133-6; ISBN 978-90-247-2616-5; OCLC 	1175640
+Koo, Min Gyu. (2010). Disputes and Maritime Regime Building in East Asia. Dordrecht: Springer. ISBN 978-1-4419-6223-2; OCLC 626823444
+Kratochwil, Friedrich V., Paul Rohrlich, Harpreet Mahajan. (1985). Peace and Disputed Sovereignty. Lanham, Maryland: University Press of America. ISBN 978-0-8191-4953-4; ISBN 978-0-8191-4954-1; OCLC 12550771
+Prescott, John Robert Victor and Gillian D. Triggs. (2008). International Frontiers and Boundaries: Law, Politics and Geography. Leiden: Martinus Nijhoff. ISBN 978-90-04-16785-8; OCLC 212375790
+__________. (1985). The Maritime Political Boundaries of the World. London: Methuen. ISBN 978-0-416-41750-0; OCLC 12582178
+Valencia, Mark J. (2001). Maritime Regime Building: Lessons Learned and Their Relevance for Northeast Asia. The Hague: Martinus Nijhoff. ISBN 978-90-411-1580-5; OCLC 174100966
+
+
+== Further reading ==
+Donaldson, John and Alison Williams. "Understanding Maritime Jurisdictional Disputes: The East China Sea and Beyond," Journal of International Affairs, Vol. 59, No. 1.
+
+
+== External links ==
+US Department of State, Limits in the Seas
+Flanders Marine Institute, VLIZ Maritime Boundaries Geodatabase
+Lecture by Malcolm Shaw entitled Principles of Maritime Delimitation in the Lecture Series of the United Nations Audiovisual Library of International Law

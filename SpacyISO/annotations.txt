@@ -1,0 +1,138 @@
+An annotation is extra information associated with a particular point in a document or other piece of information. It can be a note that includes a comment or explanation. Annotations are sometimes presented in the margin of book pages. For annotations of different digital media, see web annotation and text annotation.
+Five types of annotation are given LIDAR annotation, Image annotation, Text annotation, Video annotation, Audio annotation  
+
+
+== Literature, grammar and educational purposes ==
+
+
+=== Practising Visually ===
+Annotation Practices are highlighting a phrase or sentence and including a comment, circling a word that needs defining, posing a question when something is not fully understood and writing a short summary of a key section. It also invites students to "(re)construct a history through material engagement and exciting DIY (Do-It-Yourself) annotation practices." Annotation practices that are available today offer a remarkable set of tools for students to begin to work, and in a more collaborative, connected way than has been previously possible.
+
+
+=== Text and Film Annotation ===
+Text and Film Annotation is a technique that involves using comments, text within a film. Analyzing videos is an undertaking that is never entirely free of preconceived notions, and the first step for researchers is to find their bearings within the field of possible research approaches and thus reflect on their own basic assumptions. Annotations can take part within the video, and can be used when the data video is recorded. It is being used as a tool in text and film to write one's thoughts and emotion into the markings. In any number of steps of analysis, it can also be supplemented with more annotations. Anthropologists Clifford Geertz calls it a "thick description." This can give a sense of how useful annotation is, especially by adding a description of how it can be implemented in film.
+
+
+=== Medieval Marginalia ===
+Marginalia refers to writing or decoration in the margins of a manuscript. Medieval marginalia is so well known that amusing or disconcerting instances of it are fodder for viral aggregators such as Buzzfeed and Brainpickings, and the fascination with other readers’ reading is manifest in sites such as Melville's Marginalia Online or Harvard's online exhibit of marginalia from six personal libraries. It can also be a part of other websites such as Pinterest, or even meme generators and GIF tools.
+
+
+=== Textual scholarship ===
+
+Textual scholarship is a discipline that often uses the technique of annotation to describe or add additional historical context to texts and physical documents to make it easier to understand.
+
+
+=== Student uses ===
+Students often highlight passages in books in order to actively engage with the text. Students can use annotations to refer back to key phrases easily, or add marginalia to aid studying and finding connections between the text and prior knowledge or running themes.
+Annotated bibliographies add commentary on the relevance or quality of each source, in addition to the usual bibliographic information that merely identifies the source.
+Students use Annotation not only for academic purposes, but interpreting their own thoughts, feelings, and emotions. Sites such as Scalar and Omeka are sites that students use. There are multiple genres with Annotation such as math, film, linguists, and literary theory which students find it most helpful to use. Most students reported the annotation process as helpful for improving overall writing ability, grammar, and academic vocabulary knowledge.
+
+
+=== Mathematical expression annotation ===
+Mathematical expressions (symbols and formulae) can be annotated with their natural language meaning. This is essential for disambiguation, since symbols may have different meanings (e.g., "E" can be "energy" or "expectation value", etc.). The annotation process can be facilitated and accelerated through recommendation, e.g., using the "AnnoMathTeX" system that is hosted by Wikimedia.
+
+
+=== Learning and instruction ===
+From a cognitive perspective, annotation has an important role in learning and instruction.  As part of guided noticing it involves highlighting, naming or labelling and commenting aspects of visual representations to help focus learners' attention on specific visual aspects. In other words, it means the assignment of typological representations (culturally meaningful categories), to topological representations (e.g. images). This is especially important when experts, such as medical doctors, interpret visualizations in detail and explain their interpretations to others, for example by means of digital technology. Here, annotation can be a way to establish common ground between interactants with different levels of knowledge. The value of annotation has been empirically confirmed, for example, in a study which shows that in computer-based teleconsultations the integration of image annotation and speech leads to significantly improved knowledge exchange compared with the use of images and speech without annotation.
+
+
+=== On YouTube ===
+Annotations were removed on January 15, 2019, from YouTube after around a decade of service. They had allowed users to provide information that popped up during videos, but YouTube indicated they did not work well on small mobile screens, and were being abused.
+
+
+== Software and engineering ==
+
+
+=== Text documents ===
+
+Markup languages like XML and HTML annotate text in a way that is syntactically distinguishable from that text.  They can be used to add information about the desired visual presentation, or machine-readable semantic information, as in the semantic web.
+
+
+=== Tabular data ===
+This includes CSV and XLS. The process of assigning semantic annotations to tabular data is referred to as semantic labelling. Semantic Labelling is the process of assigning annotations from ontologies to tabular data. This process is also referred to as semantic annotation. Semantic Labelling is often done in a (semi-)automatic fashion. Semantic Labelling techniques work on entity columns, numeric columns, coordinates, and more.
+
+
+==== Semantic Labelling Techniques ====
+There are several semantic labelling types which utilises machine learning techniques. These techniques can be categorised following the work of Flach as follows: geometric (using lines and planes, such as Support-vector machine, Linear regression), probabilistic (e.g., Conditional random field), logical (e.g., Decision tree learning), and Non-ML techniques (e.g., balancing coverage and specificity). Note that the geometric, probabilistic, and logical machine learning models are not mutually exclusive.
+
+
+===== Geometric Techniques =====
+Pham et al. use Jaccard index and TF-IDF similarity for textual data and Kolmogorov–Smirnov test for the numeric ones. Alobaid and Corcho use fuzzy clustering (c-means) to label numeric columns.
+
+
+===== Probabilistic Techniques =====
+Limaye et al. uses TF-IDF similarity and graphical models. They also use support-vector machine to compute the weights. Venetis et al. construct an isA database which consists of the pairs (instance, class) and then compute maximum likelihood using these pairs. Alobaid and Corcho approximated the q-q plot for predicting the properties of numeric columns.
+
+
+===== Logical Techniques =====
+Syed et al. built Wikitology, which is "a hybrid knowledge base of structured and unstructured information extracted from Wikipedia augmented by RDF data from DBpedia and other Linked Data resources." For the Wikitology index, they use PageRank for Entity linking, which is one of the tasks often used in semantic labelling. Since they were not able to query Google for all Wikipedia articles to get the PageRank, they used Decision tree to approximate it.
+
+
+===== Non-ML techniques =====
+Alobaid and Corcho presented an approach to annotate entity columns. The technique starts by annotating the cells in the entity column with the entities from the reference knowledge graph (e.g., DBpedia). The classes are then gathered and each one of them is scored based on several formulas they presented taking into account the frequency of each class and their depth according to the subClass hierarchy.
+
+
+==== Semantic Labelling Common Tasks ====
+Here are some of the common semantic labelling tasks presented in the literature:
+
+
+===== Entity Linking and Disambiguation =====
+This is the most common task in semantic labelling. Given a text of a cell and a data source, the approach predicts the entity and link it to the one identified in the given data source. For example, if the input to the approach were the text  "Richard Feynman" and a URL to the SPARQL endpoint of DBpedia, the approach would return "http://dbpedia.org/resource/Richard_Feynman", which is the entity from DBpedia. Some approaches use exact match. while others use similarity metrics such as Cosine similarity
+
+
+===== Subject Column Identification =====
+The subject column of a table is the column that contain the main subjects/entities in the table. Some approaches expects the subject column as an input while others predict the subject column such as TableMiner+.
+
+
+===== Column Data-Type Detection =====
+Columns types are divided differently by different approaches. Some divide them into strings/text and numbers while others divide them further (e.g., Number Typology, Date, coordinates).
+
+
+===== Relation Prediction =====
+The relation between Madrid and Spain is "capitalOf". Such relations can easily be found in ontologies, such as DBpedia. Venetis et al. use TextRunner to extract the relation between two columns. Syed et al. use the relation between the entities of the two columns and the most frequent relation is selected.
+
+
+==== Gold Standards ====
+T2D is the most common gold standard for semantic labelling. Two versions exists of T2D: T2Dv1 (sometimes are referred to T2D as well) and T2Dv2. Another known benchmarks are published with the SemTab Challenge.
+
+
+=== Source control ===
+The "annotate" function (also known as "blame" or "praise") used in source control systems such as Git, Team Foundation Server and Subversion determines who committed changes to the source code into the repository.  This outputs a copy of the source code where each line is annotated with the name of the last contributor to edit that line (and possibly a revision number).  This can help establish blame in the event a change caused a malfunction, or identify the author of brilliant code.
+
+
+=== Java annotations ===
+
+A special case is the Java programming language, where annotations can be used as a special form of syntactic metadata in the source code. Classes, methods, variables, parameters and packages may be annotated. The annotations can be embedded in class files generated by the compiler and may be retained by the Java virtual machine and thus influence the run-time behaviour of an application. It is possible to create meta-annotations out of the existing ones in Java.
+
+
+=== Image annotation ===
+
+Automatic image annotation is used to classify images for image retrieval systems.
+
+
+=== Computational biology ===
+
+Since the 1980s, molecular biology and bioinformatics have created the need for DNA annotation. DNA annotation or genome annotation is the process of identifying the locations of genes and all of the coding regions in a genome and determining what those genes do. An annotation (irrespective of the context) is a note added by way of explanation or commentary. Once a genome is sequenced, it needs to be annotated to make sense of it.
+
+
+=== Digital imaging ===
+In the digital imaging community the term annotation is commonly used for visible metadata superimposed on an image without changing the underlying master image, such as sticky notes, virtual laser pointers, circles, arrows, and black-outs (cf. redaction).
+In the medical imaging community, an annotation is often referred to as a region of interest and is encoded in DICOM format.
+
+
+== Other uses ==
+
+
+=== Law ===
+In the United States, legal publishers such as Thomson West and Lexis Nexis publish annotated versions of statutes, providing information about court cases that have interpreted the statutes. Both the federal United States Code and state statutes are subject to interpretation by the courts, and the annotated statutes are valuable tools in legal research.
+
+
+=== Linguistics ===
+
+One purpose of annotation is to transform the data into a form suitable for computer-aided analysis. Prior to annotation, an annotation scheme is defined that typically consists of tags. During tagging, transcriptionists manually add tags into transcripts where required linguistical features are identified in an annotation editor. The annotation scheme ensures that the tags are added consistently across the data set and allows for verification of previously tagged data. Aside from tags, more complex forms of linguistic annotation include the annotation of phrases and relations, e.g., in treebanks. Many different forms of linguistic annotation have been developed, as well as different formats and tools for creating and managing linguistic annotations, as described, for example, in the Linguistic Annotation Wiki.
+
+
+== See also ==
+
+
+== References ==

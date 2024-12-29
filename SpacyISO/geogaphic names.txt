@@ -1,0 +1,127 @@
+Toponymy, toponymics, or toponomastics is the study of toponyms (proper names of places, also known as place names and geographic names), including their origins, meanings, usage and types. Toponym is the general term for a proper name of any geographical feature, and full scope of the term also includes proper names of all cosmographical features.
+In a more specific sense, the term toponymy refers to an inventory of toponyms, while the discipline researching such names is referred to as toponymics or toponomastics. Toponymy is a branch of onomastics, the study of proper names of all kinds. A person who studies toponymy is called toponymist.
+
+
+== Etymology ==
+The term toponymy comes from Ancient Greek: τόπος / tópos, 'place', and ὄνομα / onoma, 'name'.
+The Oxford English Dictionary records toponymy (meaning "place name") first appearing in English in 1876. Since then, toponym has come to replace the term place-name in professional discourse among geographers.
+
+
+== Toponymic typology ==
+Toponyms can be divided in two principal groups:
+
+geonyms - proper names of all geographical features, on planet Earth.
+cosmonyms - proper names of cosmographical features, outside Earth.
+Various types of geographical toponyms (geonyms) include, in alphabetical order: 
+
+agronyms - proper names of fields and plains.
+choronyms - proper names of regions or countries.
+dromonyms - proper names of roads or any other transport routes by land, water or air.
+drymonyms - proper names of woods and forests.
+econyms - proper names of inhabited locations, like houses, villages, towns or cities, including:
+comonyms - proper names of villages.
+astionyms - proper names of towns and cities.
+hydronyms - proper names of various bodies of water, including:
+helonyms - proper names of swamps, marshes and bogs.
+limnonyms - proper names of lakes and ponds.
+oceanonyms - proper names of oceans.
+pelagonyms - proper names of seas.
+potamonyms - proper names of rivers and streams.
+insulonyms - proper names of islands.
+metatoponyms - proper names of places containing recursive elements (e.g. Red River Valley Road).
+oronyms - proper names of relief features, like mountains, hills and valleys, including:
+speleonyms - proper names of caves or some other subterranean features.
+petronyms - proper names of rock climbing routes.
+urbanonyms - proper names of urban elements (streets, squares etc.) in settlements, including:
+agoronyms - proper names of squares and marketplaces.
+hodonyms - proper names of streets and roads.
+Various types of cosmographical toponyms (cosmonyms) include: 
+
+asteroidonyms - proper names of asteroids.
+astronyms - proper names of stars and constellations.
+cometonyms - proper names of comets.
+meteoronyms - proper names of meteors.
+planetonyms - proper names of planets and planetary systems.
+
+
+== History ==
+
+Probably the first toponymists were the storytellers and poets who explained the origin of specific place names as part of their tales; sometimes place-names served as the basis for their etiological legends. The process of folk etymology usually took over, whereby a false meaning was extracted from a name based on its structure or sounds. Thus, for example, the toponym of Hellespont was explained by Greek poets as being named after Helle, daughter of Athamas, who drowned there as she crossed it with her brother Phrixus on a flying golden ram. The name, however, is probably derived from an older language, such as Pelasgian, which was unknown to those who explained its origin. In his Names on the Globe, George R. Stewart theorizes that Hellespont originally meant something like 'narrow Pontus' or 'entrance to Pontus', Pontus being an ancient name for the region around the Black Sea, and by extension, for the sea itself.
+Especially in the 19th century, the age of exploration, a lot of toponyms got a different name because of national pride. Thus the famous German cartographer Petermann thought that the naming of newly discovered physical features was one of the privileges of a map-editor, especially as he was fed up with forever encountering toponyms like 'Victoria', 'Wellington', 'Smith', 'Jones', etc. He writes: "While constructing the new map to specify the detailed topographical portrayal and after consulting with and authorization of messr. Theodor von Heuglin and count Karl Graf von Waldburg-Zeil I have entered 118 names in the map: partly they are the names derived from celebrities of arctic explorations and discoveries, arctic travellers anyway as well as excellent friends, patrons, and participants of different nationalities in the newest northpolar expeditions, partly eminent German travellers in Africa, Australia, America ...".
+Toponyms may have different names through time, due to changes and developments in languages, political developments and border adjustments to name but a few. More recently many postcolonial countries revert to their own nomenclature for toponyms that have been named by colonial powers.
+
+
+== Toponomastics ==
+Place names provide the most useful geographical reference system in the world. Consistency and accuracy are essential in referring to a place to prevent confusion in everyday business and recreation.
+A toponymist, through well-established local principles and procedures developed in cooperation and consultation with the United Nations Group of Experts on Geographical Names (UNGEGN), applies the science of toponymy to establish officially recognized geographical names. A toponymist relies not only on maps and local histories, but interviews with local residents to determine names with established local usage. The exact application of a toponym, its specific language, its pronunciation, and its origins and meaning are all important facts to be recorded during name surveys.
+Scholars have found that toponyms provide valuable insight into the historical geography of a particular region. In 1954, F. M. Powicke said of place-name study that it "uses, enriches and tests the discoveries of archaeology and history and the rules of the philologists."
+Toponyms not only illustrate ethnic settlement patterns, but they can also help identify discrete periods of immigration.
+Toponymists are responsible for the active preservation of their region's culture through its toponymy. They typically ensure the ongoing development of a geographical names database and associated publications, for recording and disseminating authoritative hard-copy and digital toponymic data. This data may be disseminated in a wide variety of formats, including hard-copy topographic maps as well as digital formats such as geographic information systems, Google Maps, or thesauri like the Getty Thesaurus of Geographic Names.
+
+
+== Toponymic commemoration ==
+In 2002, the United Nations Conference on the Standardization of Geographical Names acknowledged that while common, the practice of naming geographical places after living persons (toponymic commemoration) could be problematic. Therefore, the United Nations Group of Experts on Geographical Names recommends that it be avoided and that national authorities should set their own guidelines as to the time required after a person's death for the use of a commemorative name.
+In the same vein, writers Pinchevski and Torgovnik (2002) consider the naming of streets as a political act in which holders of the legitimate monopoly to name aspire to engrave their ideological views in the social space. Similarly, the revisionist practice of
+renaming streets, as both the celebration of triumph and the repudiation of the old regime is another issue of toponymy. Also, in the context of Slavic nationalism, the name of Saint Petersburg was changed to the more Slavic sounding Petrograd from 1914 to 1924, then to Leningrad following the death of Vladimir Lenin and back to Saint-Peterburg in 1991 following the dissolution of the Soviet Union. After 1830, in the wake of the Greek War of Independence and the establishment of an independent Greek state, Turkish, Slavic and Italian place names were Hellenized, as an effort of "toponymic cleansing." This nationalization of place names can also manifest itself in a postcolonial context.
+In Canada, there have been initiatives in recent years "to restore traditional names to reflect the Indigenous culture wherever possible". Indigenous mapping is a process that can include restoring place names by Indigenous communities themselves.
+Frictions sometimes arise between countries because of toponymy, as illustrated by the Macedonia naming dispute in which Greece has claimed the name Macedonia, the Sea of Japan naming dispute between Japan and Korea, as well as the Persian Gulf naming dispute. On 20 September 1996 a note on the internet reflected a query by a Canadian surfer, who said as follows: 'One producer of maps labeled the water body 
+"Persian Gulf" on a 1977 map of Iran, and then "Arabian Gulf", also in 1977, in a map which focused on the Gulf States. I would gather that this is an indication of the "politics of maps", but I would be interested to know if this was done to avoid upsetting users of the Iran map and users of the map showing Arab Gulf States'. This symbolizes a further aspect of the topic, namely the spilling over of the problem from the purely political to the economic sphere.
+
+
+== Geographic names boards ==
+A geographic names board is an official body established by a government to decide on official names for geographical areas and features.
+Most countries have such a body, which is commonly (but not always) known under this name. Also, in some countries (especially those organised on a federal basis), subdivisions such as individual states or provinces will have individual boards.
+Individual geographic names boards include:
+
+Antarctic Place-names Commission
+Commission nationale de toponymie (National toponymy commission - France)
+Geographical Names Board of Canada
+Geographical Names Board of New South Wales
+New Zealand Geographic Board
+South African Geographical Names Council
+United States Board on Geographic Names
+
+
+== Notable toponymists ==
+
+
+== See also ==
+
+
+=== Related concepts ===
+
+
+=== Toponymy ===
+
+
+=== Hydronymy ===
+
+
+=== Regional toponymy ===
+
+
+=== Other ===
+
+
+== References ==
+
+
+== Sources ==
+
+
+== Further reading ==
+
+
+== External links ==
+
+Who Was Who in North American Name Study
+Forgotten Toponymy Board (German)
+The origins of British place names (archived 1 March 2012)
+An Index to the Historical Place Names of Cornwall
+Celtic toponymy (archived 10 February 2012)
+The Doukhobor Gazetteer, Doukhobor Heritage website, by Jonathan Kalmakoff.
+O'Brien Jr., Francis J. (Moondancer) "Indian Place Names—Aquidneck Indian Council"
+Ghana Place Names
+Index Anatolicus: Toponyms of Turkey
+The University of Nottingham's: Key to English Place-names searchable map.
+The Etymology of Mars crater names on Internet Archive
